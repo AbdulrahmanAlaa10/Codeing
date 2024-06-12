@@ -1,0 +1,22 @@
+/* varibles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.width {
+    width: 600px;
+    background-color: rgb(42, 0, 193);
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.max-width {
+    max-width: 600px;
+    background-color: rgb(255, 0, 0);
+    padding: 20px;
+    margin-bottom: 1rem;
+
+}
+
+arrow 
